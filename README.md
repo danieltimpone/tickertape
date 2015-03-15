@@ -6,10 +6,9 @@ Tickertape lets you convert company names into their corresponding stock ticker 
 
 ## Installation
 
-	`npm install tickertape`
+	npm install tickertape
 ## Usage
 
-	```
 	var tickertape = require('tickertape'),
 	getSymbol = tickertape.getSymbol,
 	getName = tickertape.getName;
@@ -18,4 +17,3 @@ Tickertape lets you convert company names into their corresponding stock ticker 
 	var companySymbol = getSymbol(companyName);
 	console.log(companyName+ ': ' + companySymbol);
 	
-	```
