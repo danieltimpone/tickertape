@@ -1,0 +1,32 @@
+{
+  "name": "tickertape",
+  "version": "1.0.0",
+  "description": "Converts between company name and ticker symbol and vice versa",
+  "main": "tickertape.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/danieltimpone/tickertape.git"
+  },
+  "keywords": [
+    "nasdaq",
+    "tickertape",
+    "ticker",
+    "symbol",
+    "stock",
+    "finance",
+    "investing"
+  ],
+  "author": "Daniel Timpone <dannytimpone@gmail.com> (github.com/danieltimpone)",
+  "license": "mit",
+  "bugs": {
+    "url": "https://github.com/danieltimpone/tickertape/issues"
+  },
+  "homepage": "https://github.com/danieltimpone/tickertape",
+  "devDependencies": {
+    "chai": "^2.1.1",
+    "mocha": "^2.2.1"
+  }
+}
