@@ -1,6 +1,6 @@
 {
   "name": "tickertape",
-  "version": "1.0.0",
+  "version": "1.0.4",
   "description": "Converts between company name and ticker symbol and vice versa",
   "main": "tickertape.js",
   "scripts": {
@@ -27,6 +27,7 @@
   "homepage": "https://github.com/danieltimpone/tickertape",
   "devDependencies": {
     "chai": "^2.1.1",
-    "mocha": "^2.2.1"
+    "mocha": "^2.2.1",
+    "request": "^2.53.0"
   }
 }
