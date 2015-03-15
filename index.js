@@ -1,5 +1,5 @@
 var fs = require('fs');
-var companies = JSON.parse(fs.readFileSync('companylist.json', 'utf8'));
+var companies = JSON.parse(fs.readFileSync('./assets/companylist.json', 'utf8'));
 
 module.exports = {
     /**
