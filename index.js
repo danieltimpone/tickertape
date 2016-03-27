@@ -18,8 +18,6 @@ module.exports = {
     * symbol
     */
     getSymbol : function(name) { 
-       
-        
         for(var key in companies) {
             if (companies[key]['Name'] == name) {
                 return companies[key]['Symbol'];

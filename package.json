@@ -25,7 +25,7 @@
     "url": "https://github.com/danieltimpone/tickertape/issues"
   },
   "homepage": "https://github.com/danieltimpone/tickertape",
-  "devDependencies": {
+  "dependencies": {
     "chai": "^2.1.1",
     "mocha": "^2.2.1",
     "request": "^2.53.0"
